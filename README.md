@@ -1,6 +1,6 @@
 # Generate Vue 3 templates
 
-(!) Contributions are welcome to improve this package.
+(!) Contributions are welcome to improve this package. The code should be cleaned up, probably done with `yargs` and made more customizable with more templates.
 
 This package currently works with Linux (and maybe MacOS) only.
 
