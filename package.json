@@ -1,5 +1,5 @@
 {
-  "name": "vue-gen",
+  "name": "@martinszeltins/vue-generate",
   "version": "1.0.0",
   "description": "Generate vue components, services, views, types, forms.",
   "main": "main.js",
