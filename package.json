@@ -1,7 +1,7 @@
 {
-  "name": "vue-cli",
+  "name": "vue-gen",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate vue components, services, views, types, forms.",
   "main": "index.ts",
   "scripts": {
     "dev": "ts-node main.ts",
