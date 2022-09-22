@@ -2,7 +2,7 @@
   "name": "vue-gen",
   "version": "1.0.0",
   "description": "Generate vue components, services, views, types, forms.",
-  "main": "index.ts",
+  "main": "main.js",
   "scripts": {
     "dev": "ts-node main.ts",
     "start": "ts-node --transpileOnly main.ts"
