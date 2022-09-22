@@ -1,6 +1,6 @@
 {
   "name": "@martinszeltins/vue-generate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate vue components, services, views, types, forms.",
   "main": "main.js",
   "scripts": {
@@ -13,5 +13,9 @@
   "dependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^4.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinszeltins/vue-gen"
   }
 }
